@@ -1,1 +1,20 @@
+first_name	mid_name	last_name	description	narrator	gender	age_cat	add_identification_str	add_identification_str2	other_names	last_name_identification	first_name_identification
+Sherlock		Holmes	The main character of the novel. Holmes is a famous detective at 221b Baker Street.	0	M	M4				1	1
+		Watson	Another protagonist and narrator of the novel. Dr. Watson is Holmes's assistant and longtime chronicler of the detective's adventures.	1	M	M4				1	0
+Henry		Baskerville	Nephew of the late Sir Charles and his next of kin. Sir Henry is healthy and robust.	0	M	M3	baronet	Sir Henry		2	1
+Charles		Baskerville	The head of the Baskerville estate. Sir Charles was a superstitious man.	0	M	O5				0	1
+Hugo		Baskerville	The depraved and ghostly ancestor of the Baskervilles, Sir Hugo is the personification of aristocratic excess.	0	M	M3				0	1
+		Mortimer	Family friend and doctor to the Baskervilles. Mortimer is a tall, thin man and nice guy. Mortimer is also a phrenology enthusiast.	0	M	M4				1	0
+Jack		Stapleton	A thin and bookish-looking entomologist and one-time schoolmaster. A calm façade masks the scheming, manipulative villain.	0	M	M4	Mr. Stapleton		Vandelour	2	1
+Beryl		Stapleton	Allegedly Stapleton's sister, turns out to be his wife.	0	F	M2	Miss Stapleton	Mrs. Stapleton	Garcia	0	1
+John		Barrymore	Mr. Barrymore is the butler of Baskerville Hall, and the man who discovered Sir Charles's body after he died.	0	M	M5	Mr. Barrymore			2	0
+Eliza		Barrymore	Mrs. Barrymore is Barrymore's wife, and Selden's sister.	0	F	M4	Mrs. Barrymore			0	1
+Laura		Lyons	A local young woman. Laura Lyons is the beautiful brunette daughter of Frankland.	0	F	M2				1	1
+		Selden	A murderous villain. The convict.	0	M	M4	convict			1	0
+		Frankland	Laura's father. Frankland is a man who likes to sue.	0	M	O3				1	0
+		Cartwright	Cartwright is a boy who helps Holmes run detective work.	0	M	Y4				1	0
+		Lestrade	Lestrade is a police detective who comes to the moor.	0	M	M4				1	0
+		Murphy	The only possible witness to Sir Charles's death. Murphy is a gipsy-horse dealer.	0	M	M4				1	0
+		Anthony	Anthony is the Stapletons' servant at Merripit House.	0	M	O1				1	0
+John		Clayton	John Clayton is the cabbie who drives a mysterious bearded man around London. 	0	M	O1				1	0
 
